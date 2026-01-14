@@ -8,7 +8,7 @@ uses gtktheme: tokyo night
 
 
 
-
+NOTE: i aliased nano to vim -y to help me transfer over to nano so if you want nano then remove the line alias nano="vim -y"
 
 
 
