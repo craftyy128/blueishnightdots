@@ -16,3 +16,10 @@ uses gtktheme: tokyo night
 
 
  use blue spictify theme and copy my betterdiscord css
+
+
+
+
+
+
+extensions are in screenshot
