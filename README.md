@@ -16,7 +16,7 @@ NOTE: i aliased nano to vim -y to help me transfer over to nano so if you want n
 
 
  use blue spictify theme and copy my betterdiscord css
-
+ 
 
 
 
@@ -24,7 +24,10 @@ NOTE: i aliased nano to vim -y to help me transfer over to nano so if you want n
 
 extensions are in screenshot
 
+<img width="591" height="915" alt="Screenshot From 2026-01-13 20-26-13" src="https://github.com/user-attachments/assets/e45dec4f-7888-4b92-9de0-68f92193a912" />
 
+
+find the configs in the repo files they are named accordingly
 
 
 put the minimal fastfetch config in a folder in the home directory called "keep" so it would be ~/keep/os.jsonc
