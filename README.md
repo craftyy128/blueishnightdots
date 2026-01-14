@@ -28,3 +28,7 @@ extensions are in screenshot
 
 
 put the minimal fastfetch config in a folder in the home directory called "keep" so it would be ~/keep/os.jsonc
+
+
+
+the normal fastfetch conf is for when you run the fastfetch command the minimal one is for when you open terminal
