@@ -23,3 +23,8 @@ uses gtktheme: tokyo night
 
 
 extensions are in screenshot
+
+
+
+
+put the minimal fastfetch config in a folder in the home directory called "keep" so it would be ~/keep/os.jsonc
