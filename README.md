@@ -1,6 +1,8 @@
 # blueishnightdots
 this is for me but u can use ig
 
+oh ya btw anything i mention in here you have to install
+
 
 uses icon theme:whitesur
 uses cursortheme: win10os
